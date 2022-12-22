@@ -47,4 +47,3 @@ class Unit:
 
             field.set_unit(x=new_x, y=new_y, unit=self)
 
-#     ...
